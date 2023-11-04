@@ -36,7 +36,7 @@ return (
    
     <Router>
       <Routes>
-        <Route path="/" Component={Home} />
+        <Route path="/Gk-quiz23/" Component={Home} />
         <Route path="/StatesAndCapital" Component={StatesAndCapital} />
         <Route path="/StatesAndCapitalSol" Component={StatesAndCapitalSol} />
         <Route path="/History" Component={History} />
