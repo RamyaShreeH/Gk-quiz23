@@ -29,8 +29,12 @@ import Astronomy from "./pages/Astronomy";
 import AstronomySol from "./pages/AstronomySol";
 import Technology from "./pages/Technology";
 import TechnologySol from "./pages/TechnologySol";
+import { useEffect } from "react";
 
 function App() {
+  useEffect(() => {
+    document.title = "Gk quiz";
+  }, []);
 return (
 	<>
    
