@@ -5,7 +5,7 @@ const Solution=({qBank})=>{
     const navigate = useNavigate();
     return(
         <div className="solution-body">
-             <Link className = "back-to-home-link"to="/">Back to home</Link>
+             <Link className = "back-to-home-link"to="/Gk-quiz23/">Back to home</Link>
             <h1 className="heading">Solution</h1>
             <br></br>
             {qBank.map(name => (
