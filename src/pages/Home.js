@@ -9,7 +9,7 @@ function Home() {
       <br></br>
       <ul>
         <li>
-          <Link to="/StatesAndCapital" className="link">States and capital</Link>
+          <Link to="/Gk-quiz23/StatesAndCapital" className="link">States and capital</Link>
         </li>
         <li>
           <Link to="/History"  className="link">History</Link>
