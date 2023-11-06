@@ -41,8 +41,8 @@ return (
     <Router>
       <Routes>
         <Route path="/Gk-quiz23/" Component={Home} />
-        <Route path="/StatesAndCapital" Component={StatesAndCapital} />
-        <Route path="/StatesAndCapitalSol" Component={StatesAndCapitalSol} />
+        <Route path="/Gk-quiz23/StatesAndCapital" Component={StatesAndCapital} />
+        <Route path="/Gk-quiz23/StatesAndCapitalSol" Component={StatesAndCapitalSol} />
         <Route path="/History" Component={History} />
         <Route path="/HistorySol" Component={HistorySol} />
         <Route path="/Geography" Component={Geography} />
