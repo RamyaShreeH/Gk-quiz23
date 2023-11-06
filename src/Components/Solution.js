@@ -1,8 +1,6 @@
-import {useNavigate} from "react-router-dom"
 import '../App.css';
 import { Link } from "react-router-dom";
 const Solution=({qBank})=>{
-    const navigate = useNavigate();
     return(
         <div className="solution-body">
              <Link className = "back-to-home-link"to="/Gk-quiz23/">Back to home</Link>
