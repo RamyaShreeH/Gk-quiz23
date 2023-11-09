@@ -64,7 +64,7 @@ const MainComponent = ({qBank,solLink}) => {
               <text className='question'><span className='note'>Note: 1.)</span>
               Please click on finish to submit the quiz.
               <span className='note'>2.)</span>Do not refresh the page.</text>
-              <Timer duration={ 0.2 * 60 * 1000} onExpire = {onExpire}/>
+              <Timer duration={ 3 * 60 * 1000} onExpire = {onExpire}/>
               <button className="btn btn-danger mt-2" onClick={handleFinish}>Finish</button>
               <br></br>
               <text className='question-no'>Question {questionBank[prevState].id} / {questionBank.length}</text>
