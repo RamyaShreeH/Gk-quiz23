@@ -15,7 +15,6 @@ const Timer = ({duration, onExpire}) => {
         if(time <= 0){
             // onExpire && onExpire();
             clearTimeout(timerId);
-            navigate("/Score")
         }
         if(time <= 0)
         {

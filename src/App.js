@@ -61,8 +61,7 @@ return (
         <Route path="/Gk-quiz23/AstronomySol" Component={AstronomySol} />
         <Route path="/Gk-quiz23/Technology" Component={Technology} />
         <Route path="/Gk-quiz23/TechnologySol" Component={TechnologySol} />
-        <Route path="/Gk-quiz23/Score" Component={Score} />
-        <Route path="/Gk-quiz23/NotAttempted" Component={NotAttempted} />
+        <Route path="/NotAttempted" Component={NotAttempted} />
       
       </Routes>
     </Router>
