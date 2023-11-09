@@ -4,7 +4,7 @@ import qBank from "../Components/TechnologyQb";
 import MainComponent from '../Components/MainComponent';
 
 function Technology() {
-  const link = "/TechnologySol"
+  const link = "/Gk-quiz23/TechnologySol"
   return(
     <div>
       <MainComponent qBank = {qBank} solLink = {link}/>

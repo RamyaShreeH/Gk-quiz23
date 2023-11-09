@@ -12,31 +12,31 @@ function Home() {
           <Link to="/Gk-quiz23/StatesAndCapital" className="link">States and capital</Link>
         </li>
         <li>
-          <Link to="/History"  className="link">History</Link>
+          <Link to="/Gk-quiz23/History"  className="link">History</Link>
         </li>
         <li>
-          <Link to="/Geography"  className="link">Geography</Link>
+          <Link to="/Gk-quiz23/Geography"  className="link">Geography</Link>
         </li>
         <li>
-          <Link to="/IndianCulture"  className="link">Indian Culture</Link>
+          <Link to="/Gk-quiz23/IndianCulture"  className="link">Indian Culture</Link>
         </li>
         <li>
-          <Link to="/DaysAndYears"  className="link">Days and years</Link>
+          <Link to="/Gk-quiz23/DaysAndYears"  className="link">Days and years</Link>
         </li>
         <li>
-          <Link to="/Mathematics"  className="link">Mathematics</Link>
+          <Link to="/Gk-quiz23/Mathematics"  className="link">Mathematics</Link>
         </li>
         <li>
-          <Link to="/GeneralScience"  className="link">General Science</Link>
+          <Link to="/Gk-quiz23/GeneralScience"  className="link">General Science</Link>
         </li>
         <li>
-          <Link to="/Sports"  className="link">Sports</Link>
+          <Link to="/Gk-quiz23/Sports"  className="link">Sports</Link>
         </li>
         <li>
-          <Link to="/Astronomy"  className="link">Astronomy</Link>
+          <Link to="/Gk-quiz23/Astronomy"  className="link">Astronomy</Link>
         </li>
         <li>
-          <Link to="/Technology"  className="link">Technology</Link>
+          <Link to="/Gk-quiz23/Technology"  className="link">Technology</Link>
         </li>
       </ul>
     </div>

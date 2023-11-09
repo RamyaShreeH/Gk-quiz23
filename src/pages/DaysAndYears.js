@@ -4,7 +4,7 @@ import qBank from "../Components/DaysAndYearsQb";
 import MainComponent from '../Components/MainComponent';
 
 function DaysAndYears() {
-  const link = "/DaysAndYearsSol"
+  const link = "/Gk-quiz23/DaysAndYearsSol"
   return(
     <div>
       <MainComponent qBank = {qBank} solLink = {link}/>

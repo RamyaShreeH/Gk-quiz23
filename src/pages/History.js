@@ -4,7 +4,7 @@ import qBank from "../Components/HistoryQb";
 import MainComponent from '../Components/MainComponent';
 
 function History() {
-  const link = "/HistorySol"
+  const link = "/Gk-quiz23/HistorySol"
   return(
     <div>
       <MainComponent qBank = {qBank} solLink = {link}/>

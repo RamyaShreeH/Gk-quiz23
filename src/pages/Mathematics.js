@@ -4,7 +4,7 @@ import qBank from "../Components/MathematicsQb";
 import MainComponent from '../Components/MainComponent';
 
 function Mathematics() {
-  const link = "/MathematicsSol"
+  const link = "/Gk-quiz23/MathematicsSol"
   return(
     <div>
       <MainComponent qBank = {qBank} solLink = {link}/>
